@@ -484,7 +484,7 @@ input[type="color"],
   color: #ffffff !important;
 }
 
-.progress-bar-default {
+/*.progress-bar-default {
   box-shadow: none;
   background: #4D4A51;
 }
@@ -548,6 +548,7 @@ input[type="color"],
   background-color: #78A2BB;
   background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, rgba(0, 0, 0, 0) 25%, rgba(0, 0, 0, 0) 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0));
 }
+*/
 
 .figure-overlay {
   background-color: #999584;
@@ -1688,7 +1689,7 @@ input[type="button"] {
   background: rgba(0, 0, 0, 0.1);
 }
 
-.progress {
+/*.progress {
   border-radius: 18px;
 }
 .progress .progress-bar {
@@ -1708,6 +1709,7 @@ input[type="button"] {
   background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, rgba(0, 0, 0, 0) 25%, rgba(0, 0, 0, 0) 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0));
   background-size: 40px 40px;
 }
+*/
 
 .badge {
   background: #6BA4B6;
